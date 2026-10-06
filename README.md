@@ -19,20 +19,6 @@ This repository contains my solutions to Data Structures and Algorithms problems
 - Graphs
 - Dynamic Programming
 
-## Repository Structure
-
-```text
-DSA/
-├── Arrays/
-├── Strings/
-├── LinkedList/
-├── Stack/
-├── Queue/
-├── Trees/
-├── Graphs/
-├── DynamicProgramming/
-└── README.md
-```
 
 ## Goal
 
